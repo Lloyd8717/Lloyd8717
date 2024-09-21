@@ -1,10 +1,9 @@
 Hi everyone,
 
-I am a passianote about sports and ice-hockey specially. I recently decided to finally to learn how to code and am learning to use Python.
+I am passionate about sports, especially ice hockey. I recently decided to finally learn how to code, and I'm currently learning to use Python.
 
-Although tutorials are a good start to get familliar, I found it important to get hands on and start to write and test some codes.
+While tutorials are a good starting point to become familiar with coding, I found it important to get hands-on experience by writing and testing my own code.
 
-I always had fun in sports management game like scouting players, creating a team, finding gems ect...
-Therefore, I started a project analyzinhg hockey (NHL players) and learning along the ways such as scrapping or regression model. 
+I’ve always enjoyed sports management games, such as scouting players, creating teams, and finding hidden gems. Therefore, I started a project analyzing NHL players and learning along the way, including skills like web scraping and regression modeling.
 
-I created this Github account to try to track and to stay motivated through my journey. 
+I created this GitHub account to track my progress and stay motivated throughout my journey.
